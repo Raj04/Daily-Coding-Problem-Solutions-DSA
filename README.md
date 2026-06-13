@@ -1,7 +1,7 @@
 # 📚 Daily Coding Problems & DSA in Java
 
 Welcome to my repository! 🚀  
-This is my personal collection of solutions to daily coding challenges from [Daily Coding Problem](https://www.dailycodingproblem.com/) and [The Daily Byte](https://thedailybyte.dev/), solved in **Java**.
+This is my personal collection of solutions to daily coding challenges from [The Daily Byte](https://thedailybyte.dev/), solved in **Java**/**Javascript**
 
 ---
 
