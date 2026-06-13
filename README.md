@@ -7,7 +7,6 @@ This is my personal collection of solutions to daily coding challenges from [The
 
 ## 🗂️ What’s Inside?
 
-- ✅ **Daily Coding Problems:** Real-world DSA problems emailed daily.
 - ✅ **The Daily Byte:** Bite-sized interview-style coding challenges.
 - ✅ **Java Solutions:** Clean, well-commented Java implementations.
 - ✅ **Organized by Topic:** Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more.
